@@ -1,0 +1,11 @@
+{
+    "name": "lp/location",
+    "description": "Find out location",
+    "authors": [
+        {
+            "name": "SajeebChakraborty",
+            "email": "sajeebchakraborty.cse2000@gmail.com"
+        }
+    ],
+    "require": {}
+}
